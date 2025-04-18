@@ -1,7 +1,7 @@
 {
   "name": "delivery-cost-api",
   "version": "1.0.0",
-  "description": "REST API to calculate minimum delivery cost",
+  "description": "API to calculate minimum delivery cost",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -14,8 +14,5 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  },
-  "engines": {
-    "node": "18.x"
   }
 }
