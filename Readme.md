@@ -1,8 +1,4 @@
-Sure! Here's a **complete `README.md`** for your Delivery Cost Calculation API — with setup instructions, usage guide, and the verified test cases you just confirmed.
 
-You can copy this directly into your GitHub repo.
-
----
 
 ```markdown
 # 🚚 Delivery Cost Calculation API
